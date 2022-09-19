@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JWebScan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JWebScan_jar</output-path>
+    <root id="archive" name="JWebScan.jar">
+      <element id="module-output" name="JWebScan" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.nmap4j-1.1.0-javadoc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-log4j12-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/nmap4j/org.nmap4j-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/dom4j-2.1.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.nmap4j-1.1.0-sources" />
+    </root>
+  </artifact>
+</component>
